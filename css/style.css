@@ -23,6 +23,7 @@ Table of Content:
 04/ profile
 05/ button
 06/ skill 
+
 09/ footer 
 =====================================================================*/
 /*----------------------------------------------------*/
@@ -877,7 +878,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 .footer_inner ul li a {
   background: #677fb5;
-  color: #fff;
+  color: #6278FF;
 }
 
 .footer_inner ul li:nth-child(2) a {
@@ -897,32 +898,32 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 .footer_inner ul li:nth-child(5) a {
   background: #007ab9;
-  color: #fff;
+  color: #6278FF;
 }
 
 .footer_inner ul li:nth-child(6) a {
   background: #d8545d;
-  color: #fff;
+  color: #6278FF;
 }
 
 .footer_inner ul li:nth-child(7) a {
   background: #5ecbf3;
-  color: #fff;
+  color: #6278FF;
 }
 
 .footer_inner ul li:nth-child(8) a {
   background: #ff3ba4;
-  color: #fff;
+  color: #6278FF;
 }
 
 .footer_inner ul li:nth-child(9) a {
   background: #e299c2;
-  color: #fff;
+  color: #6278FF;
 }
 
 .footer_inner ul li:last-child a {
   background: #faaa5e;
-  color: #fff;
+  color: #6278FF;
 }
 
 .footer_copyright {
@@ -931,7 +932,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 .footer_copyright .pull-left h5 {
   font-size: 13px;
-  color: #fff;
+  color: #6278FF;
   font-family: "Raleway", sans-serif;
   line-height: 100px;
 }
@@ -952,7 +953,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
   font-weight: bold;
-  color: #fff;
+  color: #6278FF;
   transition: all 400ms linear 0s;
 }
 
