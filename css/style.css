@@ -878,7 +878,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 .footer_inner ul li a {
   background: #677fb5;
-  color: #6278FF;
+  color: #fff;
 }
 
 .footer_inner ul li:nth-child(2) a {
